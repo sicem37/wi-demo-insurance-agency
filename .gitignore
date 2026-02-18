@@ -1,0 +1,7 @@
+# Generated synthetic dataset artifacts (local-only)
+output/*.csv
+output/*.db
+
+# Python cache
+__pycache__/
+*.pyc
